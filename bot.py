@@ -1,7 +1,6 @@
 from core.example import RockPaperScissors
 import asyncio
 
-
 async def main():
     rps = RockPaperScissors(3)
 
